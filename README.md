@@ -12,7 +12,7 @@
   <b>Adikins</b> is a fast, modern, and ad-free anime streaming application for Android built with Kotlin and Jetpack Compose Material 3. Stream in HD, customize subtitles down to the pixel, download episodes for offline viewing, and track your watch history with zero distractions.
 </p>
 
-[📥 Download Latest APK](https://github.com/your-username/Adikins/releases/latest) • [💬 Join Discord](https://discord.gg/your-link) • [🌐 Official Website](https://your-website.pages.dev)
+[📥 Download Latest APK](https://github.com/your-username/Adikins/releases/latest) • [💬 Join Discord]([https://discord.gg/your-link](https://discord.gg/UbrxstXrKc)) • [🌐 Official Website](https://your-website.pages.dev)
 
 </div>
 
