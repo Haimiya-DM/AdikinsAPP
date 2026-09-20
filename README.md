@@ -6,13 +6,13 @@
 [![Android](https://img.shields.io/badge/Platform-Android_8.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin_1.9+-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack_Compose_M3-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
-[![Release](https://img.shields.io/github/v/release/your-username/Adikins?style=for-the-badge&color=8A2BE2)](https://github.com/your-username/Adikins/releases/latest)
+[![Release](https://img.shields.io/github/v/release/your-username/Adikins?style=for-the-badge&color=8A2BE2)](https://github.com/Haimiya-DM/AdikinsAPP/releases/tag/Release)
 
 <p align="center">
   <b>Adikins</b> is a fast, modern, and ad-free anime streaming application for Android built with Kotlin and Jetpack Compose Material 3. Stream in HD, customize subtitles down to the pixel, download episodes for offline viewing, and track your watch history with zero distractions.
 </p>
 
-[📥 Download Latest APK](https://github.com/your-username/Adikins/releases/latest) • [💬 Join Discord](https://discord.gg/UbrxstXrKcU) • [🌐 Official Website](https://your-website.pages.dev)
+[📥 Download Latest APK](https://github.com/Haimiya-DM/AdikinsAPP/releases/tag/Release) • [💬 Join Discord](https://discord.gg/UbrxstXrKcU) • [🌐 Official Website](https://your-website.pages.dev)
 
 </div>
 
@@ -50,7 +50,7 @@
 
 ## 📥 Installation
 
-1. Go to the [**Releases**](https://github.com/your-username/Adikins/releases/latest) page.
+1. Go to the [**Releases**](https://github.com/Haimiya-DM/AdikinsAPP/releases/tag/Release) page.
 2. Download the latest `Adikins.apk` file.
 3. Open the file on your Android device and tap **Install**.
    *(If prompted, allow "Install from unknown sources" for your browser or file manager).*
@@ -65,16 +65,6 @@
 - **Architecture**: Clean MVVM (Model-View-ViewModel) + StateFlow coroutine pipelines
 - **Media Engine**: ExoPlayer (Media3) with customized HLS / DASH stream support
 - **Local Persistence**: Room SQLite Database + DataStore Preferences
-- **Networking**: Ktor / OkHttp3 client with automated server failover
-- **Updater & Telemetry**: Cloudflare-backed OTA distribution & real-time presence heartbeat
 
 ---
 
-## 🔧 Building from Source
-
-To compile and build the APK yourself:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Adikins.git
-   cd Adikins
