@@ -6,13 +6,13 @@
 [![Android](https://img.shields.io/badge/Platform-Android_8.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin_1.9+-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack_Compose_M3-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
-[![Release](https://img.shields.io/github/v/release/your-username/Adikins?style=for-the-badge&color=8A2BE2)](https://github.com/Haimiya-DM/AdikinsAPP/releases/tag/Release)
+[![Release](https://img.shields.io/github/v/release/your-username/Adikins?style=for-the-badge&color=8A2BE2)](https://github.com/Haimiya-DM/AdikinsAPP/releases/tag/1.0.0-Full-Release)
 
 <p align="center">
   <b>Adikins</b> is a fast, modern, and ad-free anime streaming application for Android built with Kotlin and Jetpack Compose Material 3. Stream in HD, customize subtitles down to the pixel, download episodes for offline viewing, and track your watch history with zero distractions.
 </p>
 
-[📥 Download Latest APK](https://github.com/Haimiya-DM/AdikinsAPP/releases/tag/Release) • [💬 Join Discord](https://discord.gg/UbrxstXrKcU) • [🌐 Official Website](https://adikins-app.pages.dev)
+[📥 Download Latest APK](https://github.com/Haimiya-DM/AdikinsAPP/releases/tag/1.0.0-Full-Release) • [💬 Join Discord](https://discord.gg/UbrxstXrKcU) • [🌐 Official Website](https://adikins.pages.dev)
 
 </div>
 
